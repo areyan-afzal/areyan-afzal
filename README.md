@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Areyan Afzal 👋
 
-<!--
-**areyan-afzal/areyan-afzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT graduate from the University of Management and Technology, Lahore, focused on full-stack web development and cloud computing.
 
-Here are some ideas to get you started:
+I build web applications and interactive tools, while expanding my knowledge of Microsoft Azure and exploring Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Backend & Database:** Node.js, Express.js, MongoDB
+- **Tools:** Git, GitHub, Postman, VS Code
+- **Cloud & Networking:** Azure fundamentals, networking fundamentals, Cisco Packet Tracer
+
+### Projects
+- **PickZest** — A collection of interactive random generators and decision-making tools.
+- **DEWSON** — An e-commerce application with product browsing, filtering, cart functionality, and an admin dashboard.
+
+### Certification
+Microsoft Certified: Azure Fundamentals (AZ-900)
